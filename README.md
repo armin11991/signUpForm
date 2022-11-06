@@ -1,2 +1,2 @@
-# signUpForm
-Sign Up Form Project form The Odin Project.
+# Sign-Up Form
+The Odin Project's Sign-Up Form.
